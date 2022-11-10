@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Longkpph26309_Activity extends AppCompatActivity {
+public class Luanntph26376_Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_longkpph26309);
+        setContentView(R.layout.activity_luanntph26376);
     }
 }
