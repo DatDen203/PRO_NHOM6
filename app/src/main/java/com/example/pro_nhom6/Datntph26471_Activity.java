@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class TienDat_Activity extends AppCompatActivity {
+public class Datntph26471_Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tien_dat);
+        setContentView(R.layout.activity_datntph26471);
     }
 }
