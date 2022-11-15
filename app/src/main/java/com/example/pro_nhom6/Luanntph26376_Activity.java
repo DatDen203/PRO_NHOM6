@@ -10,5 +10,6 @@ public class Luanntph26376_Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_luanntph26376);
+        // nguyen thanh luan mssv ph26376
     }
 }
